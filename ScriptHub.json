@@ -9,13 +9,13 @@
         "GrabKnifeV4":{
             "Name": "GrabKinife V4", 
             "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/GrabKnifeV4.txt", 
-            "Description": "An admin command's script", 
+            "Description": "Version 4 of Grabknife made by Mustardfoot.", 
             "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/GrabKnifeV4.jpg"
         },
         "Infinite Yield":{
             "Name": "Infinite Yield", 
             "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/InfiniteYield.txt", 
-            "Description": "An admin command's script.", 
+            "Description": "An admin command's script made by edge.", 
             "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/InfiniteYield.png"
         },
         "Lunar Admin":{
@@ -39,7 +39,7 @@
         "TopK3kV4": {
             "Name": "Topk3k V4", 
             "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/Topk3kV4.txt", 
-            "Description": "Reviz Admin script made by illremember.", 
+            "Description": "Version 4 of Topk3k made by nosyliam.", 
             "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/Topk3kV4.jpg"
         }
     }
