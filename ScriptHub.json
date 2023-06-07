@@ -1,0 +1,46 @@
+{
+    "scriptHub": {
+         "Dex Explorer V2": { 
+            "Name": "Dex Explorer V2", 
+            "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/DexV2.txt", 
+            "Description": "This is a game explorer( really useful for lua devs)", 
+            "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/Dex%20V2.png"
+        },
+        "GrabKnifeV4":{
+            "Name": "GrabKinife V4", 
+            "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/GrabKnifeV4.txt", 
+            "Description": "An admin command's script", 
+            "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/GrabKnifeV4.jpg"
+        },
+        "Infinite Yield":{
+            "Name": "Infinite Yield", 
+            "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/InfiniteYield.txt", 
+            "Description": "An admin command's script.", 
+            "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/InfiniteYield.png"
+        },
+        "Lunar Admin":{
+            "Name": "Lunar Admin", 
+            "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/LunarAdmin.txt", 
+            "Description": "Lunar Admin script.", 
+            "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/LunarAdmin.png"
+        },
+        "RemoteSpy":{
+            "Name": "RemoteSpy", 
+            "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/RemoteSpy.txt", 
+            "Description": "An remote spy script by vaeb.", 
+            "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/RemoteSpy.png"
+        },
+        "Reviz Admin": {
+            "Name": "Reviz Admin", 
+            "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/RevizAdmin.txt", 
+            "Description": "Reviz Admin script made by illremember.", 
+            "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/RevizAdmin.jpg"
+        },
+        "TopK3kV4": {
+            "Name": "Topk3k V4", 
+            "source": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/Topk3kV4.txt", 
+            "Description": "Reviz Admin script made by illremember.", 
+            "Picture": "https://raw.githubusercontent.com/HCXZN/LunarV2/main/ScriptHub/Topk3kV4.jpg"
+        }
+    }
+}
